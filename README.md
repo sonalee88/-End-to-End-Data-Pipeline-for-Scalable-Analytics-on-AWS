@@ -16,10 +16,6 @@ This project implements an **end-to-end data pipeline** on AWS, enabling efficie
 
 ---
 
-## 🏗️ Architecture Diagram
-
-![AWS Data Pipeline](https://user-images.githubusercontent.com/your-image-url.png)  
-(*Replace with your architecture image*)
 
 ### 🔹 Workflow Steps
 1️⃣ **Extract** - Load raw sales data from **Amazon RDS (MySQL)**.  
